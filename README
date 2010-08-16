@@ -1,0 +1,4 @@
+Servos-A-Plenty is a PWM servo driver for ATMega chips.  It's specifically written to work with 
+Arduino and Arduino-like boards but it could be pretty easily ported to any Mega AVR.
+
+..ummm.. it's a work in progress.  I have to test this, I'm not sure it works currently..
